@@ -4,11 +4,11 @@
 
 ## NOTA: 
 
-> Este como es fácil lo cerramos solo en 3 días.
+Este como es fácil lo cerramos solo en 3 días.
 
 1. Haz un script "ejercicio1.sh"
 
-	Con 3 funciones
+	Con `3 funciones`
 
 	 - Una que cree 40 archivos .txt en una carpeta de tu escritorio (usa touch para crearlos)
 
@@ -31,16 +31,14 @@
 
 ## DATOS COMPLETAR EJERCICO1
 
-<code> U:groupuser
-
+````bash
+ U:groupuser
  P: -Solo por el grupo-
-
  IP: 217.71.X.X (Solo en el grupo)
-
  Puerto:2022
-
  Carpeta del servidor /shell_Bash_Scripting/t.me-shell_cli_bash_scripting/ejercicio_1
-</code>
+
+````
 ## INSTRUCCIONES
 
 1º Hay que crear una carpeta dentro con vuestro usuario de Telegram

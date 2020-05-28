@@ -43,5 +43,7 @@ Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** co
 
 # Gracias.
 
-**Cualquier sugerencia por el grupo para dialogarla con los demas.**
+````
+Cualquier sugerencia por el grupo para dialogarla con los demas.
+````
 
