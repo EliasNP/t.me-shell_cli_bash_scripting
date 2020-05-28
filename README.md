@@ -37,7 +37,8 @@ Aqui estran los anlaces a las resoluciones aprovadas por el grupo a los ejercici
 
 ## Contacto
 
-By [@EliasNieva](https://t.me/EliasNieva)
+By [@EliasNieva](about.md)
+
 Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** contesto por e-mail o cualquier otra via.
 
 # Gracias.

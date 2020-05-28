@@ -1,1 +1,41 @@
 theme: jekyll-theme-midnight
+
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "EliasNP.github.io/t.me-shell_cli_bash_scripting/" # the base hostname & protocol for your site.
+
+paginate: 5 #articles per page
+paginate_path: /blog/page:num #makes pagination working
+
+# header text
+title: Blog de Bash_Cli_Shell_Scripting
+header: BASH where there is a shell, there is a way
+
+# for welcome page
+# to replace image go to index.html
+email:
+  address: "eliasnieva@keemail.me"
+  text: "eliasnieva (at) keemail.me"
+
+# google analytics
+google:
+    tracking-id: "UA-162933792-1" #your tracking id here
+
+
+# This is used by feed.xml. Uncomment if you want to use it.
+description: "Feed del Blog"
+
+permalink: /posts/:title
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
