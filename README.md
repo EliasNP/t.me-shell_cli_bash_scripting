@@ -5,8 +5,8 @@ Podeis leer las Normas [Aqui](NORMAS.md)
 
 ## Lo primero es lo primero.
 
- - Aqui estamos para aprender y divertirnos se comparte informacion para el aprendizaje asi que por favor ser respetuosos con el trabajo de los demas.
- - Los @Admins tambien tenemos vida, falia y trabajos asi que por favor calma con los tiempos no siempre podemos contestar y/o modificar los que nos pedis al momento.
+ - Aqui estamos para aprender y divertirnos, se comparte informacion para el aprendizaje asi que `por favor` ser respetuosos con el trabajo de los demas.
+ - Los [@Admins](administradores.md) tambien tenemos vida, familia y trabajos asi que por favor calma con los tiempos no siempre podemos contestar y/o modificar los que nos pedis al momento.
 
 ## La Organizacion del **Git**
 
@@ -21,13 +21,15 @@ Puede darse el caso que haya resuelto varias dudas por lo que se incluiran en ca
 Aqui incluire pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo y las fechas de entrega si las tuviese a modo de guia rapida.
 
  1. [EJERCICIO_1](ejercicio_1/EJERCICIO_1.md)
+
+```bash
 	Haz un script "ejercicio1.sh"
         Con funciones
          - Una que cree archivos usando comando **touch**
          - Otra que comprima con gzip 
          - cambiando extensiones de .txt a .md.
 	Para terminar debe por el mismo mostrar toda esta información junta en un pastebi
-
+```
 ## Resolucion de Ejercicios
 Aqui estran los anlaces a las resoluciones aprovadas por el grupo a los ejercicios a modo de enlaces.
 
