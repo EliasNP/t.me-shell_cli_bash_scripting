@@ -1,5 +1,5 @@
 #Nomas del Grupo @Shell_cli_Bash_Scripting
-@EliasNieva
+By @EliasNieva
 
 ##Reglas del grupo @Shell_cli_bash_scripting 
 
