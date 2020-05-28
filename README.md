@@ -1,10 +1,11 @@
 # Pagina del Grupo Shell_Cli_Bash_Scripting
 
-> http://t.me-shell_cli_bash_scripting
+[GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting)
 
 Podeis leer las Normas [Aqui](NORMAS.md)
 
 ## Lo primero es lo primero.
+
  - Aqui estamos para aprender y divertirnos se comparte informacion para el aprendizaje asi que por favor ser respetuosos con el trabajo de los demas.
  - Los @Admins tambien tenemos vida, falia y trabajos asi que por favor calma con los tiempos no siempre podemos contestar y/o modificar los que nos pedis al momento.
 
@@ -36,8 +37,10 @@ Aqui estran los anlaces a las resoluciones aprovadas por el grupo a los ejercici
 
 ## Contacto
 
+By [@EliasNieva](https://t.me/EliasNieva)
 Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** contesto por e-mail o cualquier otra via.
 
 # Gracias.
 
 **Cualquier sugerencia por el grupo para dialogarla con los demas.**
+
