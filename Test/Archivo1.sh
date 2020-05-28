@@ -1,0 +1,10 @@
+0	Archivo1.sh
+4,0K	both.txt
+0	Directorio1/Archivotxt.md
+4,0K	Directorio1
+4,0K	file1.txt
+4,0K	file2.txt
+4,0K	OnlyFile1.txt
+4,0K	OnlyFile2.txt
+8,0K	testenrique.sh
+4,0K	testJesus.sh
