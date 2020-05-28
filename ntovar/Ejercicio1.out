@@ -1,0 +1,157 @@
+Crear archivos
+archivo_10.txt
+archivo_11.txt
+archivo_12.txt
+archivo_13.txt
+archivo_14.txt
+archivo_15.txt
+archivo_16.txt
+archivo_17.txt
+archivo_18.txt
+archivo_19.txt
+archivo_1.txt
+archivo_20.txt
+archivo_21.txt
+archivo_22.txt
+archivo_23.txt
+archivo_24.txt
+archivo_25.txt
+archivo_26.txt
+archivo_27.txt
+archivo_28.txt
+archivo_29.txt
+archivo_2.txt
+archivo_30.txt
+archivo_31.txt
+archivo_32.txt
+archivo_33.txt
+archivo_34.txt
+archivo_35.txt
+archivo_36.txt
+archivo_37.txt
+archivo_38.txt
+archivo_39.txt
+archivo_3.txt
+archivo_40.txt
+archivo_4.txt
+archivo_5.txt
+archivo_6.txt
+archivo_7.txt
+archivo_8.txt
+archivo_9.txt
+salida.txt
+ 
+Comprimir archivos
+archivo_23.txt.gz
+archivo_29.txt.gz
+ 
+Cambiar extension de los archivos
+archivo_13.md
+archivo_30.md
+archivo_31.md
+archivo_32.md
+archivo_33.md
+archivo_34.md
+archivo_35.md
+archivo_36.md
+archivo_37.md
+archivo_38.md
+archivo_39.md
+archivo_3.md
+ 
+#!/usr/bin/env bash 
+# Ejecicio nro 1 :
+# Crear 3 funciones :
+# - Una que cree 40 archivos .txt en una carpeta de tu escritorio (usa touch # para crearlos)
+# - Otra que comprima con gzip sólo los archivos 23 y 29.
+# - La última que cambie la extensión de los ficheros que contengan un 3 en su
+# nombre de .txt a .md.)
+
+function crear_archivos() {
+# Funcion para crear n archivos
+# Parametros de entrada :
+#   $1 : Cantidad de archivos a crear
+#   $2 : Prefijo del nombre de los archivos
+#   $3 : Extension de los archivos
+
+    for (( i = 1; i <= $1; i++ )); do
+        touch "$2_$i.$3"
+    done
+}
+
+function comprimir_archivo() {
+# Funcion para comprimir un archivo
+# Parametros de entrada :
+#   $1 : Nombre del archivo a comprimir
+
+    if [ -e $1 ]; then
+        # Si el archivo existe, entonces comprimirlo
+        gzip $1
+    fi
+}
+
+function cambiar_extension() {
+# Funcion para cambiar la extension a un grupo de archivos
+# Parametros de entrada :
+#   $1 : Patron del nombre de los archivos a cambiarle la extension
+#   $2 : Extension original de los archivos
+#   $3 : Nueva extension de los archivos
+    
+    for i in `ls -1 | grep $1` ; do
+        echo $i | grep ".${2}$"
+        if [ $? -eq 0 ]; then
+            nombre=$(echo $i | cut -d'.' -f 1)
+            mv $i "$nombre.$3"
+        fi
+    done
+
+}
+
+#
+# Parametros de entrada del script
+#
+
+# Crear 40 archivos de forma predeterminada
+cant=40
+
+# Prefijo predertminado del nombre de los archivos
+prefix='file'
+
+# Extension predeterminada de los archivos
+ext='txt'
+
+# Procesar los parametros pasados al script
+if [ $# -ne 0 ]; then
+    # Actualizar la cantidad de archivos a crear
+    cant=$1
+
+    # Si existe $2, entonces actualizar el prefijo del nombre de los archivos
+    if [ -n "$2" ]; then
+        prefix=$2
+
+        # Si existe $3, entonces actualizar la extendion de los archivos
+        if [ -n "$3" ]; then
+            ext=$3
+        fi
+    fi
+fi
+
+crear_archivos $cant $prefix $ext
+echo 'Crear archivos' > salida.txt
+ls -1 | grep -v sh >> salida.txt
+comprimir_archivo "${prefix}_23.$ext"
+comprimir_archivo "${prefix}_29.$ext"
+
+echo ' ' >> salida.txt
+echo 'Comprimir archivos' >> salida.txt
+ls -1 *gz >> salida.txt
+
+cambiar_extension '3' $ext 'md'
+echo ' ' >> salida.txt
+echo 'Cambiar extension de los archivos' >> salida.txt
+ls -1 *.md | grep -v salida | grep -v sh >> salida.txt
+
+echo ' ' >> salida.txt
+cat ejercicio01.sh >> salida.txt
+
+pastebin -b pastebin.com -i salida.txt
