@@ -10,11 +10,6 @@ compass:
  tagline: "BASH where there is a shell, there is a way"
  include_content: true
 
-#Permalinks
-permalink: pretty
-relative_permalinks: true
-
-
 collections:
   my_collection:
     output: true
