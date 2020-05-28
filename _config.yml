@@ -2,5 +2,15 @@ theme: jekyll-theme-hacker
 # header text
 
 title: Bash_Cli_Shell_Scripting
-[Grupo](http://t.me/bash_cli_shell_scripting)
 header: BASH where there is a shell, there is a way
+
+collections:
+  my_collection:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "section/*/special-page.html"
+    values:
+      layout: "specific-layout"
