@@ -1,11 +1,9 @@
-[GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIO_1](ejercicio_1/EJERCICIO_1.md) _ [AUTOR](about.md) _ [ADMINISTRADORES](administradores.md)
-# Pagina del Grupo Shell_Cli_Bash_Scripting
+[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIO_1](ejercicio_1/EJERCICIO_1.md) _ [AUTOR](about.md) _ [ADMINISTRADORES](administradores.md)
+## Pagina del Grupo Shell_Cli_Bash_Scripting
 
-# EJERCICIO_1
+## EJERCICIO_1
 
-[Regresar](../README.md)
-
-## NOTA: 
+### NOTA: 
 
 Este como es fácil lo cerramos solo en 3 días.
 
@@ -22,17 +20,17 @@ Este como es fácil lo cerramos solo en 3 días.
 
 2. Para terminar debe por el mismo mostrar toda esta información junta en un pastebin con pastebinit y lo mandáis por privado a algún admin 
 
-## ACLARACION EDITADA: 
+### ACLARACION EDITADA: 
 
 - Solo mandar la copia de los archivos como salida.
 
 - El Script hasta que no se cierre el ejercicio no es necesario, solo si queréis comprobar algo mandarlo a un admin.
 
-## IMPORTANTE:
+### IMPORTANTE:
 
  - Por supuesto bien comentado el proceso y tabulado.
 
-## DATOS COMPLETAR EJERCICO1
+### DATOS COMPLETAR EJERCICO1
 
 ````bash
  U:groupuser
@@ -42,7 +40,7 @@ Este como es fácil lo cerramos solo en 3 días.
  Carpeta del servidor /shell_Bash_Scripting/t.me-shell_cli_bash_scripting/ejercicio_1
 
 ````
-## INSTRUCCIONES
+### INSTRUCCIONES
 
 1º Hay que crear una carpeta dentro con vuestro usuario de Telegram
            Ej:@EliasNieva
@@ -51,7 +49,7 @@ Este como es fácil lo cerramos solo en 3 días.
 
 3º Copiáis la salida con el nombre ""Ejercicio1.out"
 
-### El Viernes a las 9:00 Hora Peninsular de España cortare el acceso y haré Gitpush de todos los archivos a un repositorio que he creado en GitHub del Grupo ( https://github.com/EliasNP/t.me-shell_cli_bash_scripting ) donde podréis ver los ejercicios, los compararemos y corregiremos entre todos
+#### El Viernes a las 9:00 Hora Peninsular de España cortare el acceso y haré Gitpush de todos los archivos a un repositorio que he creado en GitHub del Grupo ( https://github.com/EliasNP/t.me-shell_cli_bash_scripting ) donde podréis ver los ejercicios, los compararemos y corregiremos entre todos
 
 #### NOTA: 
 
