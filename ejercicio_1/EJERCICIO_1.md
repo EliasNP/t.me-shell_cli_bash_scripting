@@ -1,6 +1,6 @@
 # EJERCICIO_1
 
-[Regresar](./README.md)
+[Regresar](../README.md)
 
 ## NOTA: 
 
