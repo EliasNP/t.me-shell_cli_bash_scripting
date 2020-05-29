@@ -1,4 +1,4 @@
-[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIO_1](../ejercicio_1/EJERCICIO_1.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
+[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [RESULTADO_1](RESULTADO_1.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
 ## Pagina del Grupo Shell_Cli_Bash_Scripting
 
 ## EJERCICIO_1
@@ -56,3 +56,5 @@ Este como es fácil lo cerramos solo en 3 días.
  - De Momento para no complicarlo demasiado para los que son novatos he creado un solo usuario **POR FAVOR** respetad los trabajos de los demás.
 
 > A partir del Viernes en este mismo Servidor estarán las instrucciones del Segundo Ejercicio para realizar durante el fin de semana y así el Lunes por la tarde se subirán los resultados al GitHub de la misma manera.
+
+Para ver el [RESULTADO_1](RESULTADO_1.md)
