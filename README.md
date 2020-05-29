@@ -23,18 +23,27 @@ Aqui incluire pequeñas reseñas de los ejercicios con enlace a la carpeta para 
  1. [EJERCICIO_1](ejercicio_1/EJERCICIO_1.md)
 
 ```bash
-	Haz un script "ejercicio1.sh"
-        Con funciones
-         - Una que cree archivos usando comando **touch**
-         - Otra que comprima con gzip 
-         - cambiando extensiones de .txt a .md.
-	Para terminar debe por el mismo mostrar toda esta información junta en un pastebi
+
+echo "Haz un script ejercicio1.sh
+	Con funciones
+        - Una que cree archivos usando comando **touch**
+        - Otra que comprima con gzip 
+        - cambiando extensiones de .txt a .md.
+	Para terminar debe por el mismo mostrar toda esta información junta en un pastebin"
+
 ```
+ 2. [EJERCICIO_2](#)
+
+```bash
+
+echo "Hasta que lo publique como pista mirad SFTP / SCP / Cawsay / AWK y repasar lo que ya vimos en el ejercicio_1"
+```
+
 ## Resolucion de Ejercicios
 Aqui estran los anlaces a las resoluciones aprovadas por el grupo a los ejercicios a modo de enlaces.
 
- 1. EJERCICIO_1 (Fecha limite para entrega Viernes 29-05-2020 09:00 CEST)
-	- Estamos en plazo de entrega.
+ 1. [EJRCICIO_1](ejercicio_1/RESULTADO_1.md)
+	> Estamos en plazo de Comentarlo .
 
 ## Contacto
 
