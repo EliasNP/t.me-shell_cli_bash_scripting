@@ -1,4 +1,4 @@
-[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [RESULTADO_1](RESULTADO_1.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
+[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [RESULTADO_1](1_RESULTADO.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
 ## EJERCICIO_1
 
 ### NOTA: 
