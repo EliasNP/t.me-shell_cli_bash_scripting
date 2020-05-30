@@ -20,7 +20,7 @@ Puede darse el caso que haya resuelto varias dudas por lo que se incluiran en ca
 ## Ejercicio actual.
 Aqui incluire pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo y las fechas de entrega si las tuviese a modo de guia rapida.
 
- 1. [EJERCICIO_1](ejercicio_1/EJERCICIO_1.md)
+ 1. [EJERCICIO_1](ejercicios/1_EJERCICIO.md)
 
 ```bash
 
@@ -32,18 +32,23 @@ echo "Haz un script ejercicio1.sh
 	Para terminar debe por el mismo mostrar toda esta información junta en un pastebin"
 
 ```
- 2. [EJERCICIO_2](#)
+ 2. [EJERCICIO_2](ejercicios/2_EJERCICIO.md)
 
 ```bash
 
-echo "Hasta que lo publique como pista mirad SFTP / SCP / Cawsay / AWK y repasar lo que ya vimos en el ejercicio_1"
+echo " Haremos 3 Archivos 
+		- 1º Archivo de configuracion Generico
+			- Funciones y Variables
+		- 2º Script de llamada al Anterior
+		- 3º Archivo con la salida del Script del punto 2
+		Para terminar lo subiremos al SFTP bien ordenado.
 ```
 
 ## Resolucion de Ejercicios
-Aqui estran los anlaces a las resoluciones aprovadas por el grupo a los ejercicios a modo de enlaces.
+Aqui estran los enlaces a las resoluciones aprobadas por el grupo a los ejercicios a modo de enlaces.
 
- 1. [EJRCICIO_1](ejercicio_1/RESULTADO_1.md)
-	> Estamos en plazo de Comentarlo .
+ 1. [EJRCICIO_1](ejercicios/1_RESULTADO.md)
+	
 
 ## Contacto
 
