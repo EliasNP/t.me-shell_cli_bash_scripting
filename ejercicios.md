@@ -4,6 +4,6 @@
 
 ## EJERCICIOS
 
-- [EJERCICIO_1](ejercicios/1_EJERCICIO.md) \_ [RESULTADO](ejercicios/1_RESUTLADO.md)
-- [EJERCICIO_2](ejercicios/2_EJERCICIO.md) \_ No Disponible ~[RESULTADO](#)~
+- [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) \_ [RESULTADO](Ejercicios/1_RESUTLADO.md)
+- [EJERCICIO_2](Ejercicios/2_EJERCICIO.md) \_ No Disponible ~[RESULTADO](#)~
 

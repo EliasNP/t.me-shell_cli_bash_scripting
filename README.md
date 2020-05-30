@@ -20,7 +20,7 @@ Puede darse el caso que haya resuelto varias dudas por lo que se incluiran en ca
 ## Ejercicio actual.
 Aqui incluire pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo y las fechas de entrega si las tuviese a modo de guia rapida.
 
- 1. [EJERCICIO_1](ejercicios/1_EJERCICIO.md)
+ 1. [EJERCICIO_1](Ejercicios/1_EJERCICIO.md)
 
 ```bash
 
@@ -32,7 +32,7 @@ echo "Haz un script ejercicio1.sh
 	Para terminar debe por el mismo mostrar toda esta información junta en un pastebin"
 
 ```
- 2. [EJERCICIO_2](ejercicios/2_EJERCICIO.md)
+ 2. [EJERCICIO_2](Ejercicios/2_EJERCICIO.md)
 
 ```bash
 
@@ -47,7 +47,7 @@ echo " Haremos 3 Archivos
 ## Resolucion de Ejercicios
 Aqui estran los enlaces a las resoluciones aprobadas por el grupo a los ejercicios a modo de enlaces.
 
- 1. [EJRCICIO_1](ejercicios/1_RESULTADO.md)
+ 1. [EJERCICIO_1](Ejercicios/1_RESULTADO.md)
 	
 
 ## Contacto
