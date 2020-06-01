@@ -5,6 +5,6 @@
 
 Los Culpables de hacer cumplir las NORMAS.
 
- - [@EliasNieva](../about.md)
- - [@CK](../@ChristoferK.md)
- - [@Capitan_Obvious](../@Captn_Obvious.md)
+ - [@EliasNieva](about.md)
+ - [@CK](@ChristoferK.md)
+ - [@Capitan_Obvious](@Captn_Obvious.md)
