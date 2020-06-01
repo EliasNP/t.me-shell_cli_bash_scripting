@@ -8,4 +8,7 @@
 	</H1>
 	Todavia estamós en plazo de Ejecución</CENTER></html>
 
-[![NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS](nover.jpg "NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS")](./README.md "NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS")
+Resultado Final de Como Deberia Quedar.
+![](2_RESULTADO.png)
+
+[!](nover.jpg "NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS")
