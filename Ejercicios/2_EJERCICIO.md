@@ -58,19 +58,28 @@ Nombre de la function **_Data** con los siguientes datos
 
  2. Crearemos un segundo **Script** con el nombre _Ejercicio\_2.sh_ en el cual llamaremos con el comando source (_NOTA: mirad bien como debe guardarse al final del texto_)por este orden a las funciones y Variables.
 
- 	- Usando el comando **printf** y con los colores que hemos creado.
+- Usando el comando **printf** y con los colores que hemos creado.
 
-		1. Función **_Data**, Azul
-		2. FECHA, Verde
-		3. HORA, Purpura
-		4. USERID,Cyan
-		5. IP, Rojoclaro
-		6. VERSION_SISTEMA, Blanco
-		7. NOM_DISTRO\_C,Marron
-		8. VERSION_BASH, Amarillo
-	
+1. Función **_Data**, Azul
+2. FECHA, Verde
+3. HORA, Purpura
+4. USERID,Cyan
+5. IP, Rojoclaro
+6. VERSION_SISTEMA, Blanco
+7. NOM_DISTRO\_C,Marron
+8. VERSION_BASH, Amarillo
 
-	-La ultima Variable NOMBRE\_USUARIO en Verdeclaro la sacaremos con _cawsay_
+- La ultima Variable NOMBRE\_USUARIO en Verdeclaro la sacaremos con _cowsay_
+ ```
+ _____________________________
+< Asi Quedara:NOMBRE\_USUARIO >
+ -----------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 Escaparemos el resultado del script en un archivo en formato MarkDown, (si no sabeís no importa) podeís solamente sacarlo como _Ejercicio\_2.md_
 
@@ -95,3 +104,4 @@ SFTP> ls
 ``` 
 
 # Cualquier Duda o pregunta como siempre por el Grupo.
+
