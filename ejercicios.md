@@ -1,5 +1,5 @@
-[<==INICIO]({{ site.url }}) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
-
+[<==INICIO](README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [AUTOR](about.md) _ [ADMINISTRADORES](administradores.md)
+{{ site.url }}
 # Indice de todos los Ejerccios con su TimeLine y Resultados
 
 ## EJERCICIOS
