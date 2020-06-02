@@ -6,9 +6,9 @@
 	404 . Nada que ver aquí
 	<Br>
 	</H1>
-	Todavia estamós en plazo de Ejecución</CENTER></html>
+	Todavía estamos en plazo de Ejecución</CENTER></html>
 
-Resultado Final de Como Deberia Quedar.
+Resultado Final de Como Debería Quedar.
 ![](2_RESULTADO.png)
 
-[!](nover.jpg "NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS")
+<img src="../nover.jpg" title="NADA QUE VER, ESTOS NO SON LOS RESULTADOS QUE BUSCAIS" style="zoom:150%;" />
