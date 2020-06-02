@@ -1,10 +1,10 @@
 theme: jekyll-theme-hacker
 # header text
-
 title: Bash_Shell_Scripting
 description: BASH where there is a shell, there is a way
 author_email: eliasnievap@protonmail.com
 url: https://eliasnp.github.io/t.me-shell_cli_bash_scripting/
+{{ site.url }}
 
 compass:
  logo: "logo_grupo.jpg"
