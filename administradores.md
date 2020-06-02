@@ -1,4 +1,4 @@
-[<==Regresar](README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) _ [AUTOR](about.md)
+**[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})**
 # Pagina del Grupo Shell_Cli_Bash_Scripting
 
 # ADMINISTRADORES

@@ -1,6 +1,4 @@
-# ============================
-#   RESULTADO EJERCICIO_1
-# ============================
+### **[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})**
 
 ### Creamos 40 archivos .txt en una carpeta con "touch"
 
@@ -28,10 +26,10 @@ function _compress(){
 ### Cambiamos las extensiónes de los ficheros que contengan un "3" en su nombre de .txt a .md.
 
 Lo primero es localizar los archivos que contengan el **3** para eso usamos "**find**" despues usamos la opcion de find para ejecutar otros comandos "**-exec**" usamos el comando "**rename**" con la variable **-V** para que nos muestre el proceso  y le pasamos los valores a cambiar sustituyendo el nombre del archivo por "**{}**" para que introduzca los valores del find.
- 
+
 >NOTA: tambien se puede usar "**mv**" pero se complicaria más teniendo que meter datos en variables como se hacia antes.
 En Versiones derivadas de RHEL/CENTOS "**Rename** cambia un poco en su forma de ejecutarse"
-	
+
 ```bash 
 function _rename(){
 	find *3*.txt -exec rename -v 's/\.txt/\.md/' {} \;
