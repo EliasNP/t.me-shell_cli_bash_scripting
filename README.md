@@ -1,24 +1,25 @@
-[GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIOS](ejercicios.md) _ [TUTORIALES](Test/scripts.md) _ [AUTOR](about.md) _ [ADMINISTRADORES](administradores.md) 
+****[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})**** 
+
 # Pagina del Grupo Shell_Cli_Bash_Scripting
 
-Podeis leer las Normas [Aqui](NORMAS.md)
+Podéis leer las Normas [Aqui](NORMAS.md)
 
 ## Lo primero es lo primero.
 
- - Aqui estamos para aprender y divertirnos, se comparte informacion para el aprendizaje asi que `por favor` ser respetuosos con el trabajo de los demas.
- - Los [@Admins](administradores.md) tambien tenemos vida, familia y trabajos asi que por favor calma con los tiempos no siempre podemos contestar y/o modificar los que nos pedis al momento.
+ - Aquí estamos para aprender y divertirnos, se comparte información para el aprendizaje así que `por favor` ser respetuosos con el trabajo de los demás.
+ - Los [@Admins](administradores.md) también tenemos vida, familia y trabajos así que por favor calma con los tiempos no siempre podemos contestar y/o modificar los que nos pedís al momento.
 
-## La Organizacion del **Git**
+## La Organización del **Git**
 
-> Esto puede cambiar en funcion de las necesidades del momento, dicho esto de momento:
+> Esto puede cambiar en función de las necesidades del momento, dicho esto de momento:
 
-- Existen unos archivos basicos del Git en la carpeta raiz (NORMAS.md, README.md, etc.. )
+- Existen unos archivos básicos del Git en la carpeta raíz (NORMAS.md, README.md, etc.. )
 - Carpetas de Ejercicios propuestos en el Grupo (ejercicio_1) el Cual tiene un texto descriptivo del ejercicio con sus pautas y carpetas con los nombres de los usuarios con sus ejercicios correspondientes.
-- Carpeta **Test** aqui incluyo los script's o archivos que resuelvo con dudas en el grupo, normalmente si puedo creo una carpeta con el nombre del usuario y dentro estan los archivos necesarios y el/los scripts.
-Puede darse el caso que haya resuelto varias dudas por lo que se incluiran en carpetas separadas dentro del mismo usuario.
+- Carpeta **Test** aquí incluyo los Scripts o archivos que resuelvo con dudas en el grupo, normalmente si puedo creo una carpeta con el nombre del usuario y dentro están los archivos necesarios y el/los Scripts. Puede darse el caso que haya resuelto varias dudas por lo que se incluirán en carpetas separadas dentro del mismo usuario.
+- Carpeta [Documentación](Documentacion/Indice_Libros.md) Aquí se depositan los Pdf,Ebook,Epub..Etc con Documentación aportada por el Grupo en Diferentes categorías he idiomas.
 
 ## Ejercicio actual.
-Aqui incluire pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo y las fechas de entrega si las tuviese a modo de guia rapida.
+Aquí incluiré pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo a modo de guía rápida.
 
  1. [EJERCICIO_1](Ejercicios/1_EJERCICIO.md)
 
@@ -44,17 +45,17 @@ echo " Haremos 3 Archivos
 		Para terminar lo subiremos al SFTP bien ordenado.
 ```
 
-## Resolucion de Ejercicios
-Aqui estran los enlaces a las resoluciones aprobadas por el grupo a los ejercicios a modo de enlaces.
+## Resolución de Ejercicios
+Aquí están los enlaces a las resoluciones aprobadas por el grupo a los ejercicios a modo de enlaces.
 
- 1. [EJERCICIO_1](Ejercicios/1_RESULTADO.md)
-	
+  1. [EJERCICIO_1](Ejercicios/1_RESULTADO.md)
+  2. [EJERCICIO_2](Ejercicios/2_RESULTADO.md)
 
 ## Contacto
 
 By [@EliasNieva](about.md)
 
-Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** contesto por e-mail o cualquier otra via.
+Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** contesto por e-mail o cualquier otra vía.
 
 # Gracias.
 
@@ -62,3 +63,10 @@ Siempre por el grupo o por mensaje privado por Telegram, **NO** repito **NO** co
 Cualquier sugerencia por el grupo para dialogarla con los demas.
 ````
 
+------
+<center>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/telegram.png" alt="Telegram" style="zoom:10%;" /></a> <a href="https://twitter.com/EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/twitter.png" alt="Twitter" style="zoom:30%;" /> </a> <a href="https://mastodon.social/@EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/mastodon.png" alt="Mastodon" style="zoom:5%;" /></a> <a href="https://github.com/EliasNP"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/github.png" alt="Mastodon" style="zoom:7%;" /></a> <a href="mailto:eliasnievap@protonmail.com"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/Mail-icon.png" alt="Mastodon" style="zoom:7%;" /></a>
+
+![](/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/88x31.png)
+
+------

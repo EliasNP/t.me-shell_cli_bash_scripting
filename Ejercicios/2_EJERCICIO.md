@@ -36,7 +36,7 @@ Linux Mint 19.3 -  Almacena el nombre corto de la Distro detectada.
 
 ```
 
-### DEFINICION DE FUNCIONES GENERICAS FIJAS
+### DEFINICIÓN DE FUNCIONES GENÉRICAS FIJAS
 
 Al igual que las **variables** vamos a definir unas funciones a las que podremos llamar desde cualquier Script.
 solamente a modo de Ejemplo crearemos una esta vez con nuestros datos para que aparezcan en todos los Scripts
@@ -79,12 +79,12 @@ Nombre de la function **_Data** con los siguientes datos
             (__)\       )\/\
                 ||----w |
                 ||     ||
-```
+ ```
 
-Escaparemos el resultado del script en un archivo en formato MarkDown, (si no sabeís no importa) podeís solamente sacarlo como _Ejercicio\_2.md_
+Escaparemos el resultado del Script en un archivo en formato MarkDown, (si no sabéis no importa) podéis solamente sacarlo como _Ejercicio\_2.md_
 
 
-Subiremos los dos archivos _Ejercicio\_2.sh_ y _Ejercicio\_2.md_ al SFTP del grupo que usasteís en el ejercicio anterior, a una nueva carpeta llamada Ejercicio\_2 el archivo **.config** a la carpeta de vuestro usuario raiz.
+Subiremos los dos archivos _Ejercicio\_2.sh_ y _Ejercicio\_2.md_ al SFTP del grupo que usasteis en el ejercicio anterior, a una nueva carpeta llamada Ejercicio\_2 el archivo **.config** a la carpeta de vuestro usuario raiz.
 
 Voy a modificar las carpetas para que quede más organizado, la nueva estructura se detalla aquí abajo.
 
@@ -101,7 +101,14 @@ SFTP> ls
 	@Nombre_De_Usuario/Ejercicio_2:
 		Ejercicio_2.md
 		Ejercicio_2.sh
-``` 
+```
 
 # Cualquier Duda o pregunta como siempre por el Grupo.
 
+------
+<center>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/telegram.png" alt="Telegram" style="zoom:10%;" /></a> <a href="https://twitter.com/EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/twitter.png" alt="Twitter" style="zoom:30%;" /> </a> <a href="https://mastodon.social/@EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/mastodon.png" alt="Mastodon" style="zoom:5%;" /></a> <a href="https://github.com/EliasNP"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/github.png" alt="Mastodon" style="zoom:7%;" /></a> <a href="mailto:eliasnievap@protonmail.com"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/Mail-icon.png" alt="Mastodon" style="zoom:7%;" /></a>
+
+![](/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/88x31.png)
+
+------

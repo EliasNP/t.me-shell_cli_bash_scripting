@@ -28,10 +28,10 @@ function _compress(){
 ### Cambiamos las extensiónes de los ficheros que contengan un "3" en su nombre de .txt a .md.
 
 Lo primero es localizar los archivos que contengan el **3** para eso usamos "**find**" despues usamos la opcion de find para ejecutar otros comandos "**-exec**" usamos el comando "**rename**" con la variable **-V** para que nos muestre el proceso  y le pasamos los valores a cambiar sustituyendo el nombre del archivo por "**{}**" para que introduzca los valores del find.
- 
+
 >NOTA: tambien se puede usar "**mv**" pero se complicaria más teniendo que meter datos en variables como se hacia antes.
 En Versiones derivadas de RHEL/CENTOS "**Rename** cambia un poco en su forma de ejecutarse"
-	
+
 ```bash 
 function _rename(){
 	find *3*.txt -exec rename -v 's/\.txt/\.md/' {} \;
@@ -87,3 +87,11 @@ _rename
 	pastebinit Ejercicio_1.out
 	pastebinit $0
 ```
+
+------
+<center>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/telegram.png" alt="Telegram" style="zoom:10%;" /></a> <a href="https://twitter.com/EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/twitter.png" alt="Twitter" style="zoom:30%;" /> </a> <a href="https://mastodon.social/@EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/mastodon.png" alt="Mastodon" style="zoom:5%;" /></a> <a href="https://github.com/EliasNP"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/github.png" alt="Mastodon" style="zoom:7%;" /></a> <a href="mailto:eliasnievap@protonmail.com"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/Mail-icon.png" alt="Mastodon" style="zoom:7%;" /></a>
+
+![](/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/88x31.png)
+
+------
