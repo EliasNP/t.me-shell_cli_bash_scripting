@@ -1,0 +1,50 @@
+#!/ur/bin/env bash
+
+# Códigos de color
+NEGRO='\e[0;30m'
+GRISOSCURO='\e[1;30m'
+AZUL='\e[0;34m'
+AZULCLARO='\e[1;34m'
+VERDE='\e[0;32m'
+VERDECLARO='\e[1;32m'
+CYAN='\e[0;36m'
+CYANCLARO='\e[1;36m'
+ROJO='\e[0;31m'
+ROJOCLARO='\e[1;31m'
+PURPURA='\e[0;35m'
+PURPURACLARO='\e[1;35m'
+MARRON='\e[0;33m'
+AMARILLO='\e[1;33m'
+GRISCLARO='\e[1;37m'
+BLANCO='\e[1;37m'
+NC='\e[0m'
+
+# Importa las varaibles del archivo os-release para su uso
+source /etc/os-release
+
+# Variables genéricas
+FECHA="$(date '+%F')"
+HORA="$(date '+%H:%m')"
+USERID="$UID"
+IP="$(hostname -I)"
+VERSION_SISTEMA="$VERSION"
+NOM_DISTRO_C="$PRETTY_NAME"
+VERSION_BASH="$BASH_VERSION"
+NOMBRE_USUARIO="$USER"
+
+# Funciones genérias
+_data() {
+    printf "=%.0s" {1..65}
+    printf "\nTítulo:\t\t%s\n" "Ejercicio 2 del Grupo"
+    printf "Descripción:\t%s\n" "La salida nos muestra la información almacenada"
+    printf "\t\t%s\n" "en variables y funciones del archivo .config"
+    printf "Autor:\t\t%s\n" "Fran"
+    printf "Fecha:\t\t%s\n" "$FECHA"
+    printf "Versión:\t%s\n" "0.1"
+    printf "Notas:\t\t%s\n" "-"
+    printf "Versión Bash:\t%s\n" "$VERSION_BASH"
+    printf "eMail:\t\t%s\n" "-"
+    printf "Telegram:\t%s\n" "@f_r_4_n_k"
+    printf "=%.0s" {1..65}
+    printf "%s\n\n" ""
+$PRETTY_NAME"}
