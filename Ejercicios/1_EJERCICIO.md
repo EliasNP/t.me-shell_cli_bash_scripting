@@ -48,7 +48,7 @@ Este como es fácil lo cerramos solo en 3 días.
 
 3º Copiáis la salida con el nombre ""Ejercicio1.out"
 
-#### El Viernes a las 9:00 Hora Peninsular de España cortare el acceso y haré Gitpush de todos los archivos a un repositorio que he creado en GitHub del Grupo ( https://github.com/EliasNP/t.me-shell_cli_bash_scripting ) donde podréis ver los ejercicios, los compararemos y corregiremos entre todos
+#### El Viernes a las 9:00 Hora Peninsular de España cortare el acceso y haré Gitpush de todos los archivos a un repositorio que he creado en GitHub del Grupo ( {{ site.github }}/t.me-shell_cli_bash_scripting ) donde podréis ver los ejercicios, los compararemos y corregiremos entre todos
 
 #### NOTA: 
 
@@ -63,13 +63,13 @@ Este como es fácil lo cerramos solo en 3 días.
 
 ------
 <center>
-<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
-<a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
-<a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
-<a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a>
-<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="{{ site.mastodon }}"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="{{ site.github }}"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
 <Br>
-<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_creative }}" alt="cc"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_creative }}" alt="cc"/></a>
 </center>
 ------
 

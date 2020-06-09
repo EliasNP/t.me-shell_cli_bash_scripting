@@ -58,7 +58,7 @@ pastebinit $0
 
 Para más detalle consultar el Script en Github
 
-[Script Ejercicio_1](https://github.com/EliasNP/t.me-shell_cli_bash_scripting/blob/master/ejercicio_1/%40EliasNieva/Ejercicio_1.sh)
+[Script Ejercicio_1]({{ site.github }}/t.me-shell_cli_bash_scripting/blob/master/ejercicio_1/%40EliasNieva/Ejercicio_1.sh)
 
 SI quereis tenerlo solo con lo necesario os dejo el script à continuación limpio
 
@@ -90,12 +90,12 @@ _rename
 
 ------
 <center>
-<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
-<a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
-<a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
-<a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a>
-<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="{{ site.mastodon }}"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="{{ site.github }}"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
 <Br>
-<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_creative }}" alt="cc"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_creative }}" alt="cc"/></a>
 </center>
 ------

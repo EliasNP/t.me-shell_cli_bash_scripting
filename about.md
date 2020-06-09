@@ -7,15 +7,15 @@
 
 ## More Information
 
-Hi, I`m Elías Nieva Prieto ([Eli@sNП](https://github.com/EliasNP) - 🐧 01)
+Hi, I`m Elías Nieva Prieto ([Eli@sNП]({{ site.github }}) - 🐧 01)
 
-Search me in [Mastodon](https://mastodon.social/@EliasNieva),[Twitter](https://twitter.com/EliasNieva),[Telegram](http://t.me/EliasNieva) or [GitHub](https://github.com/EliasNP).
+Search me in [Mastodon]({{ site.mastodon }}),[Twitter]({{ site.twitter }}),[Telegram](http://t.me/EliasNieva) or [GitHub]({{ site.github }}).
 If you have any question just Ask.
 
  ## Contact me
 
  - [Telegram](http://t.me/EliasNieva)
- - [Twitter](https://twitter.com/EliasNieva)
- - [Mastodon](https://mastodon.social/@EliasNieva)
- - [GitHub](https://github.com/EliasNP)
+ - [Twitter]({{ site.twitter }})
+ - [Mastodon]({{ site.mastodon }})
+ - [GitHub]({{ site.github }})
  - [Mail](mailto:eliasnieva@keemail.me)
