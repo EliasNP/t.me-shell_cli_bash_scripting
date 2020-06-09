@@ -4,8 +4,8 @@
 
 ## EJERCICIOS
 
-- [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) \_ [RESULTADO](Ejercicios/1_RESUTLADO.md)
-- [EJERCICIO_2](Ejercicios/2_EJERCICIO.md) \_ [RESULTADO](Ejercicios/2_RESUTLADO.md)
+- [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) \_ [RESULTADO](Ejercicios/1_RESULTADO.md)
+- [EJERCICIO_2](Ejercicios/2_EJERCICIO.md) \_ [RESULTADO](Ejercicios/2_RESULTADO.md)
 
 ------
 <center>

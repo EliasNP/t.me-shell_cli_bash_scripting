@@ -1,4 +1,5 @@
 [INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
+
 # EJERCICIO_2
 
 ## IMPORTANTE ANTES DE EMPEZAR
@@ -104,6 +105,11 @@ SFTP> ls
 ```
 
 # Cualquier Duda o pregunta como siempre por el Grupo.
+
+## EJERCICIOS
+
+- [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) \_ [RESULTADO](Ejercicios/1_RESULTADO.md)
+- [EJERCICIO_2](Ejercicios/2_EJERCICIO.md) \_ [RESULTADO](Ejercicios/2_RESULTADO.md)
 
 ------
 <center>

@@ -56,7 +56,10 @@ Este como es fácil lo cerramos solo en 3 días.
 
 > A partir del Viernes en este mismo Servidor estarán las instrucciones del Segundo Ejercicio para realizar durante el fin de semana y así el Lunes por la tarde se subirán los resultados al GitHub de la misma manera.
 
-Para ver el[[RESULTADO_1](1_RESULTADO.md)
+## EJERCICIOS
+
+- [EJERCICIO_1](Ejercicios/1_EJERCICIO.md) \_ [RESULTADO](Ejercicios/1_RESULTADO.md)
+- [EJERCICIO_2](Ejercicios/2_EJERCICIO.md) \_ [RESULTADO](Ejercicios/2_RESULTADO.md)
 
 ------
 <center>
