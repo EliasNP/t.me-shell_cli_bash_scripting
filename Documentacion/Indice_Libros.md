@@ -1,13 +1,13 @@
-**[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})**
+[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
 
 # Indice de Libros
 
-- - **Bash_Programacion**
+- - **Bash_Programación**
 	- **_Castellano_**
 		- [Ejercicios.odt](Bash_Programacion/Castellano/Ejercicios.odt)
 		
 		  ```tex 
-		  Ejercicios que  Subió  alguien al grupo. anterior del que somos Fork.
+		  Ejercicios que subió  alguien al grupo anterior del que somos **Fork**.
 		  ```
 		
 		- [Shell_en_bash.pdf](Bash_Programacion/Castellano/bash.pdf)
@@ -39,8 +39,9 @@
 
 ------
 <center>
-<a href="https://t.me/shell_cli_bash_scripting"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/telegram.png" alt="Telegram" style="zoom:10%;" /></a> <a href="https://twitter.com/EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/twitter.png" alt="Twitter" style="zoom:30%;" /> </a> <a href="https://mastodon.social/@EliasNieva"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/mastodon.png" alt="Mastodon" style="zoom:5%;" /></a> <a href="https://github.com/EliasNP"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/github.png" alt="Mastodon" style="zoom:7%;" /></a> <a href="mailto:eliasnievap@protonmail.com"><img src="/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/Mail-icon.png" alt="Mastodon" style="zoom:7%;" /></a>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="../imag/telegram.png" alt="Telegram" style="zoom:10%;" /></a> <a href="https://twitter.com/EliasNieva"><img src="../imag/twitter.png" alt="Twitter" style="zoom:30%;" /> </a> <a href="https://mastodon.social/@EliasNieva"><img src="../imag/mastodon.png" alt="Mastodon" style="zoom:5%;" /></a> <a href="https://github.com/EliasNP"><img src="../imag/github.png" alt="Mastodon" style="zoom:7%;" /></a> <a href="mailto:eliasnievap@protonmail.com"><img src="../imag/Mail-icon.png" alt="E-mail" style="zoom:7%;" /></a>
 
-![](/home/enieva/Rpositorios/t.me-shell_cli_bash_scripting/imag/88x31.png)
+![](../imag/88x31.png)
 
 ------
+
