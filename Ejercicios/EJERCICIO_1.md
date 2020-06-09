@@ -1,4 +1,4 @@
-[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [RESULTADO_1](RESULTADO_1.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
+[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
 ## Pagina del Grupo Shell_Cli_Bash_Scripting
 
 ## EJERCICIO_1
@@ -58,3 +58,15 @@ Este como es fácil lo cerramos solo en 3 días.
 > A partir del Viernes en este mismo Servidor estarán las instrucciones del Segundo Ejercicio para realizar durante el fin de semana y así el Lunes por la tarde se subirán los resultados al GitHub de la misma manera.
 
 Para ver el [RESULTADO_1](RESULTADO_1.md)
+
+------
+<center>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<Br>
+<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_creative }}" alt="cc"/></a>
+</center>
+------

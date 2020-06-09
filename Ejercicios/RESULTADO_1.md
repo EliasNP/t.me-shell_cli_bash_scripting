@@ -1,4 +1,4 @@
-[<==Regresar](../README.md) _ [GRUPO DE TELEGRAM](https://t.me/shell_cli_bash_scripting) _ [EJERCICIO_1](EJERCICIO_1.md) _ [AUTOR](../about.md) _ [ADMINISTRADORES](../administradores.md)
+[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
 
 #   RESULTADO EJERCICIO_1
 
@@ -28,10 +28,10 @@ function _compress(){
 ### Cambiamos las extensiónes de los ficheros que contengan un "3" en su nombre de .txt a .md.
 
 Lo primero es localizar los archivos que contengan el **3** para eso usamos "**find**" despues usamos la opcion de find para ejecutar otros comandos "**-exec**" usamos el comando "**rename**" con la variable **-V** para que nos muestre el proceso  y le pasamos los valores a cambiar sustituyendo el nombre del archivo por "**{}**" para que introduzca los valores del find.
- 
+
 >NOTA: tambien se puede usar "**mv**" pero se complicaria más teniendo que meter datos en variables como se hacia antes.
 En Versiones derivadas de RHEL/CENTOS "**Rename** cambia un poco en su forma de ejecutarse"
-	
+
 ```bash 
 function _rename(){
 	find *3*.txt -exec rename -v 's/\.txt/\.md/' {} \;
@@ -87,3 +87,15 @@ _rename
 	pastebinit Ejercicio_1.out
 	pastebinit $0
 ```
+
+------
+<center>
+<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<Br>
+<a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_creative }}" alt="cc"/></a>
+</center>
+------

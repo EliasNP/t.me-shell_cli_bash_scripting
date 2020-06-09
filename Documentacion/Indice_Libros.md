@@ -38,7 +38,8 @@
  - Off\_Topic
 
 ------
+
 <center>
-<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a> <a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/> </a> <a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a> <a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a> <a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
-![]({{ site.img_creative }})
+<a href="https://t.me/shell_cli_bash_scripting"><img src="{{ site.img_telegram }}" alt="Telegram"/></a> <a href="https://twitter.com/EliasNieva"><img src="{{ site.img_twitter }}" alt="Twitter"/> </a> <a href="https://mastodon.social/@EliasNieva"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a> <a href="https://github.com/EliasNP"><img src="{{ site.img_github }}" alt="GitHub"/></a> <a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_mail }}" alt="E-mail"/></a><Br><a href="mailto:eliasnievap@protonmail.com"><img src="{{ site.img_creative }}" alt="cc"/></a>
+</center>
 ------
