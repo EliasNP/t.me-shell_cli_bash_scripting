@@ -1,12 +1,10 @@
-Códigos de salida bash en linux - Linux para todos
-
-Códigos de salida bash en linux
+[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
 
 ![Códigos de salida bash en linux](../_resources/3afdfede01d8412cb89c583785d92a53.png "Códigos de salida bash en linux 1")
 
-**Códigos de salida [bash](#) en [linux](#).**
+# **Códigos de salida bash en Gnu/linux.**
 
-Cada vez que ejecutamos un comando o script, el sistema nos devuelve un código de retorno. Si no lo solicitas explícitamente, este código no es visible.
+Cada vez que ejecutamos un comando o Script, el sistema nos devuelve un código de retorno. Si no lo solicitas explícitamente, este código no es visible.
 
 Los **códigos de salida bash** son numéricos, pero limitados entre 0 y 255 porque se utiliza un entero de ocho bits. En este artículo vemos como imprimir los códigos de retorno, además de conocer los más comunes.
 
@@ -66,3 +64,14 @@ Para concluir podemos revisar la siguiente tabla, en ella encontrarás los códi
 | 130 | Terminado por "Control-C" |     |
 | 255* | Código de salida fuera de rango | Solo enteros entre 0 y 255 |
 
+------
+<center>
+<a href="{{ site.telegram }}"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="{{ site.mastodon }}"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="{{ site.github }}"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<Br>
+<a href="{{ site.mail }}"><img src="{{ site.img_creative }}" alt="cc"/></a>
+</center>
+------

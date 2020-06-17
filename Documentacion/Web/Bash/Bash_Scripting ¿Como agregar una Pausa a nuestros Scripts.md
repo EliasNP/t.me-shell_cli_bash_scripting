@@ -1,3 +1,5 @@
+[INICIO]({{ site.url }})  [ADMINISTRADORES]({{ site.admin }}) [EJERCICIOS]({{ site.ejer }}) [DOCUMENTACIÓN]({{ site.docu }}) [TUTORIALES]({{ site.tuto }}) [GRUPO DE TELEGRAM]({{ site.telegram }})
+
 # Bash_Scripting ¿Como agregar una _Pausa_ a nuestros Scripts?
 
 Si alguno de vosotros alguna vez uso Scripts de DOS os sonara el comando **pause** , pues como sabéis en **Scripting** de **bash** no existe como tal, pero esto lo podemos solucionar fácilmente como detallo a continuación.
@@ -77,3 +79,14 @@ _pasue  # Esto ejecutara la función en la parte del Script que nosotros queramo
 
 ```
 
+------
+<center>
+<a href="{{ site.twitter }}"><img src="{{ site.img_telegram }}" alt="Telegram"/></a>
+<a href="{{ site.twitter }}"><img src="{{ site.img_twitter }}" alt="Twitter"/></a>
+<a href="{{ site.mastodon }}"><img src="{{ site.img_mastodon }}" alt="Mastodon"/></a>
+<a href="{{ site.github }}"><img src="{{ site.img_github }}" alt="GitHub"/></a>
+<a href="{{ site.mail }}"><img src="{{ site.img_mail }}" alt="E-mail"/></a>
+<Br>
+<a href="{{ site.mail }}"><img src="{{ site.img_creative }}" alt="cc"/></a>
+</center>
+------
