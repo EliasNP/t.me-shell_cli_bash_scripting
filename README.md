@@ -17,6 +17,7 @@ Podéis leer las Normas [Aqui](NORMAS.md)
 - Carpetas de Ejercicios propuestos en el Grupo (ejercicio_1) el Cual tiene un texto descriptivo del ejercicio con sus pautas y carpetas con los nombres de los usuarios con sus ejercicios correspondientes.
 - Carpeta **Test** aquí incluyo los Scripts o archivos que resuelvo con dudas en el grupo, normalmente si puedo creo una carpeta con el nombre del usuario y dentro están los archivos necesarios y el/los Scripts. Puede darse el caso que haya resuelto varias dudas por lo que se incluirán en carpetas separadas dentro del mismo usuario.
 - Carpeta [Documentación](Documentacion/Indice_Libros.md) Aquí se depositan los Pdf,Ebook,Epub..Etc con Documentación aportada por el Grupo en Diferentes categorías he idiomas.
+- Nueva Sección de [Manuales](Documentacion/Web/manualesytrucos.md) y Trucos.
 
 ## Ejercicio actual.
 Aquí incluiré pequeñas reseñas de los ejercicios con enlace a la carpeta para realizarlo a modo de guía rápida.
